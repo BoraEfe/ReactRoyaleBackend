@@ -1,6 +1,5 @@
 package com.bora.queue_backend.controller;
 
-
 import com.bora.queue_backend.model.Player;
 import com.bora.queue_backend.service.QueueService;
 import org.springframework.beans.factory.annotation.Autowired;
